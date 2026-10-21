@@ -31,8 +31,8 @@ hiring managers; trainees.
   parent–child relationship that the current bulleted Markdown pages lose.
 - It is now published as a **MkDocs Material** site on GitHub Pages, with community
   discussion via **giscus** on every page.
-- Repo: `github.com/larisa-msoto/ai-bioinformatics-practice-model`
-  Site: `https://larisa-msoto.github.io/ai-bioinformatics-practice-model/`
+- Repo: `github.com/bioinfopro/4d-bio`
+  Site: `https://bioinfopro.org/4d-bio/`
 
 ## Status
 

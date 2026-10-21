@@ -2,8 +2,8 @@
 # 4D-Bio: A Practice Model for AI-Augmented Bioinformatics
 # -----------------------------------------------------------------------------
 site_name: 4D-Bio
-site_url: https://larisa-msoto.github.io/ai-bioinformatics-practice-model/
-repo_url: https://github.com/larisa-msoto/ai-bioinformatics-practice-model
+site_url: https://bioinfopro.org/4d-bio/
+repo_url: https://github.com/bioinfopro/4d-bio
 edit_uri: 'blob/main/docs/'
 docs_dir: docs/
 site_description: "4D-Bio is a community-maintained practice model that maps the skills of a practicing bioinformatician onto Anthropic's 4D framework for AI fluency."

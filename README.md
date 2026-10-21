@@ -8,7 +8,7 @@
 [Anthropic's 4D framework for AI fluency](https://www-cdn.anthropic.com/334975cdec18f744b4fa511dc8518bd8d119d29d.pdf?ref=hackshackers.com):
 **Delegation, Description, Discernment, and Diligence**. 
 
-**Read the practice model:** <https://larisa-msoto.github.io/ai-bioinformatics-practice-model/>
+**Read the practice model:** <https://bioinfopro.org/4d-bio/>
 
 ## Who it's for
 
@@ -20,7 +20,7 @@
 
 This is an early public draft, and a call to the bioinformatics community to shape it.
 
-- **Discuss:** join the [community discussions](https://github.com/larisa-msoto/ai-bioinformatics-practice-model/discussions):
+- **Discuss:** join the [community discussions](https://github.com/bioinfopro/4d-bio/discussions):
   the AI Errors Archive, the Future of Bioinformatics, and Model Feedback.
 - **Fix a typo:** click the pencil icon on any page of the site.
 - **Propose changes to the model:** see the [contributing guide](docs/contributing.md).
